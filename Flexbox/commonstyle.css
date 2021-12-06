@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 15px 25px;
+}
+
+h2 {
+    font-size: 1rem;
+}
+
+h3 {
+    font-size: .8rem;
+}
+.container {
+    background-color: #FFFDD0;
+    margin: 15px 20px;
+    padding: 10px;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px;
+    box-shadow: 0 1.5px 0 0 rgb(0,0,0,0.1);
+    /* width: 600px; */
+}
+
+.item {
+    border: 1px solid #000;
+    color:chocolate;
+    padding: 5px;
+    margin: 5px;
+}
